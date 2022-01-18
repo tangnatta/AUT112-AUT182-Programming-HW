@@ -1,5 +1,5 @@
 // C++ code
-//Q2 - LAB 3
+//Q1 - LAB 4
 float BMI, weight, height;
 void setup()
 {
