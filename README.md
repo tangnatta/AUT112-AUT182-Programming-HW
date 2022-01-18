@@ -2,4 +2,4 @@
  
 Contributors: 
 1. Nattavee Sunitsakul
-2. Therapat Thongbai
+2. Theerapat Thongbai
